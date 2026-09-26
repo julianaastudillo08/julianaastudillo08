@@ -63,14 +63,16 @@
 | Demo | Qué es |
 |------|--------|
 | [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Studio de gradientes, sombras y glassmorphism |
-| [Signal Board](https://julianaastudillo08.github.io/signal-board/) | Dashboard ops con métricas “en vivo” |
+| [Signal Board](https://julianaastudillo08.github.io/signal-board/) | Dashboard ops con métricas en vivo |
 | [Mindmap Lite](https://julianaastudillo08.github.io/mindmap-lite/) | Editor de mapas mentales (drag + SVG) |
+| [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST en el navegador |
+| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD con preview e impresión |
+| [Focus Arena](https://julianaastudillo08.github.io/focus-arena/) | Pomodoro gamificado (XP + rachas) |
+| [Chrono Timeline](https://julianaastudillo08.github.io/chrono-timeline/) | Línea de tiempo profesional interactiva |
+| [Palette Story](https://julianaastudillo08.github.io/palette-story/) | Paletas con contraste WCAG + preview UI |
 | [Stack Quiz Pro](https://julianaastudillo08.github.io/stack-quiz-pro/) | Prep entrevistas: JS · Python · SQL · APIs |
-| [Brief Writer](https://julianaastudillo08.github.io/brief-writer/) | Generador de briefs de reunión imprimibles |
-| [Clinic Flow](https://julianaastudillo08.github.io/clinic-flow/) | Agenda clínica completa (panel, print, atajos) |
-| [Ledger Pro](https://julianaastudillo08.github.io/ledger-pro/) | Finanzas COP: metas, recurrentes, CSV |
-| [Knowledge Vault](https://julianaastudillo08.github.io/knowledge-vault/) | Notas Markdown con tags y modo lectura |
-| [Agenda Citas](https://julianaastudillo08.github.io/agenda-citas/) | Reservas y calendario |
+| [Clinic Flow](https://julianaastudillo08.github.io/clinic-flow/) | Agenda clínica completa |
+| [Ledger Pro](https://julianaastudillo08.github.io/ledger-pro/) | Finanzas COP: metas y CSV |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
@@ -79,12 +81,12 @@
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
 | **[pixel-forge](https://github.com/julianaastudillo08/pixel-forge)** | Vanilla · CSS | Laboratorio visual de diseño |
-| **[signal-board](https://github.com/julianaastudillo08/signal-board)** | Chart.js | Observabilidad / ops UI |
-| **[mindmap-lite](https://github.com/julianaastudillo08/mindmap-lite)** | SVG · Canvas | Mapas mentales interactivos |
-| **[clinic-flow](https://github.com/julianaastudillo08/clinic-flow)** | Vanilla | Agenda clínica profesional |
-| **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | API de envíos y tracking |
-| **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Microservicio de autenticación |
-| **[nexus-board](https://github.com/julianaastudillo08/nexus-board)** | Express · SQLite | Tablero full-stack |
+| **[api-playground](https://github.com/julianaastudillo08/api-playground)** | Fetch · localStorage | Cliente REST para demos |
+| **[invoice-studio](https://github.com/julianaastudillo08/invoice-studio)** | Vanilla | Facturación profesional |
+| **[fleet-tracker-api](https://github.com/julianaastudillo08/fleet-tracker-api)** | Express · SQLite · Zod | Flota y viajes |
+| **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | Envíos y tracking |
+| **[clinic-flow](https://github.com/julianaastudillo08/clinic-flow)** | Vanilla | Agenda clínica |
+| **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
 
