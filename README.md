@@ -62,17 +62,17 @@
 
 | Demo | Qué es |
 |------|--------|
-| [Diff Sight](https://julianaastudillo08.github.io/diff-sight/) | Diff de texto/código línea a línea |
-| [Wire Mock](https://julianaastudillo08.github.io/wire-mock/) | Stubber de APIs falsas en el browser |
-| [Card Deck](https://julianaastudillo08.github.io/card-deck/) | Flashcards con flip y spaced rating |
-| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Formatear y explorar JSON |
-| [Regex Lab](https://julianaastudillo08.github.io/regex-lab/) | Playground de regex live |
-| [Tempo Beats](https://julianaastudillo08.github.io/tempo-beats/) | Metrónomo con tap tempo |
-| [Unit Forge](https://julianaastudillo08.github.io/unit-forge/) | Conversor de unidades + divisas |
-| [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes, sombras y glass |
-| [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST en el navegador |
-| [Habit Streaks](https://julianaastudillo08.github.io/habit-streaks/) | Hábitos con heat map |
-| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD |
+| [Markdown Stage](https://julianaastudillo08.github.io/markdown-stage/) | Editor Markdown live + export |
+| [QR Craft](https://julianaastudillo08.github.io/qr-craft/) | Generador de QR descargable |
+| [Kanban Flow](https://julianaastudillo08.github.io/kanban-flow/) | Tablero Kanban con drag-drop |
+| [Poll Pulse](https://julianaastudillo08.github.io/poll-pulse/) | Encuestas instantáneas |
+| [Salary Net](https://julianaastudillo08.github.io/salary-net/) | Estimador salario neto COP |
+| [Diff Sight](https://julianaastudillo08.github.io/diff-sight/) | Diff de texto/código |
+| [Wire Mock](https://julianaastudillo08.github.io/wire-mock/) | Stubber de APIs |
+| [Card Deck](https://julianaastudillo08.github.io/card-deck/) | Flashcards |
+| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Toolkit JSON |
+| [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes y glass |
+| [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
@@ -80,12 +80,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[diff-sight](https://github.com/julianaastudillo08/diff-sight)** | Vanilla | Diff viewer para texto/código |
-| **[wire-mock](https://github.com/julianaastudillo08/wire-mock)** | Vanilla | Mock de endpoints REST |
-| **[inventory-lite-api](https://github.com/julianaastudillo08/inventory-lite-api)** | Express · SQLite · Zod | Inventario y alertas de stock |
-| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas con conflictos |
-| **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | Envíos y tracking |
-| **[json-sculptor](https://github.com/julianaastudillo08/json-sculptor)** | Vanilla | Toolkit JSON |
+| **[markdown-stage](https://github.com/julianaastudillo08/markdown-stage)** | Vanilla | Editor Markdown profesional |
+| **[kanban-flow](https://github.com/julianaastudillo08/kanban-flow)** | Vanilla | Kanban con WIP y labels |
+| **[notes-api](https://github.com/julianaastudillo08/notes-api)** | Express · SQLite · Zod | Notas con tags y search |
+| **[inventory-lite-api](https://github.com/julianaastudillo08/inventory-lite-api)** | Express · SQLite · Zod | Inventario y stock |
+| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas |
+| **[diff-sight](https://github.com/julianaastudillo08/diff-sight)** | Vanilla | Diff viewer |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
