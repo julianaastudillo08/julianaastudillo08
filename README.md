@@ -62,16 +62,16 @@
 
 | Demo | Qué es |
 |------|--------|
+| [Parallax Cards](https://julianaastudillo08.github.io/parallax-cards/) | Cards tilt 3D |
+| [Sticky Notes](https://julianaastudillo08.github.io/sticky-notes/) | Notas arrastrables |
+| [Progress Rings](https://julianaastudillo08.github.io/progress-rings/) | Anillos SVG |
+| [Toast Kit](https://julianaastudillo08.github.io/toast-kit/) | Notificaciones UI |
+| [Clamp Calc](https://julianaastudillo08.github.io/clamp-calc/) | Calculadora clamp() |
 | [Confetti Blast](https://julianaastudillo08.github.io/confetti-blast/) | Confeti canvas |
 | [Sound Pad](https://julianaastudillo08.github.io/sound-pad/) | Pads Web Audio |
-| [Typewriter FX](https://julianaastudillo08.github.io/typewriter-fx/) | Efecto máquina de escribir |
-| [Border Radius Lab](https://julianaastudillo08.github.io/border-radius-lab/) | Radios orgánicos |
-| [ASCII Art](https://julianaastudillo08.github.io/ascii-art/) | Banners ASCII |
+| [Typewriter FX](https://julianaastudillo08.github.io/typewriter-fx/) | Máquina de escribir |
 | [Glass Stack](https://julianaastudillo08.github.io/glass-stack/) | Glassmorphism |
 | [Gradient Mesh](https://julianaastudillo08.github.io/gradient-mesh/) | Mesh gradients |
-| [Countdown Glow](https://julianaastudillo08.github.io/countdown-glow/) | Timer neon |
-| [Word Cloud](https://julianaastudillo08.github.io/word-cloud/) | Nube de palabras |
-| [Typo Scale](https://julianaastudillo08.github.io/typo-scale/) | Escala tipográfica |
 | [Kanban Flow](https://julianaastudillo08.github.io/kanban-flow/) | Tablero Kanban |
 | [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes y glass |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
@@ -81,12 +81,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
+| **[feedback-api](https://github.com/julianaastudillo08/feedback-api)** | Express · SQLite · Zod | Ratings de producto |
+| **[parallax-cards](https://github.com/julianaastudillo08/parallax-cards)** | Vanilla | Cards 3D tilt |
 | **[events-api](https://github.com/julianaastudillo08/events-api)** | Express · SQLite · Zod | Calendario / eventos |
-| **[sound-pad](https://github.com/julianaastudillo08/sound-pad)** | Web Audio | Synth pads |
-| **[tags-api](https://github.com/julianaastudillo08/tags-api)** | Express · SQLite · Zod | Taxonomía tags N:N |
-| **[confetti-blast](https://github.com/julianaastudillo08/confetti-blast)** | Canvas | Celebraciones |
-| **[glass-stack](https://github.com/julianaastudillo08/glass-stack)** | Vanilla | Glassmorphism toolkit |
-| **[typewriter-fx](https://github.com/julianaastudillo08/typewriter-fx)** | Vanilla | Headline animation |
+| **[sticky-notes](https://github.com/julianaastudillo08/sticky-notes)** | Vanilla | Board de notas |
+| **[toast-kit](https://github.com/julianaastudillo08/toast-kit)** | Vanilla | Feedback UI |
+| **[tags-api](https://github.com/julianaastudillo08/tags-api)** | Express · SQLite · Zod | Taxonomía tags |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
@@ -97,7 +97,7 @@
 | **C#** | [csharp-notes-api](https://github.com/julianaastudillo08/csharp-notes-api) |
 | **Go** | [go-books-api](https://github.com/julianaastudillo08/go-books-api) |
 | **Python** | [pulse-api](https://github.com/julianaastudillo08/pulse-api) · [ops-metrics-api](https://github.com/julianaastudillo08/ops-metrics-api) |
-| **Node/TS** | [events-api](https://github.com/julianaastudillo08/events-api) · [tags-api](https://github.com/julianaastudillo08/tags-api) · [comments-api](https://github.com/julianaastudillo08/comments-api) · [issues-api](https://github.com/julianaastudillo08/issues-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) |
+| **Node/TS** | [feedback-api](https://github.com/julianaastudillo08/feedback-api) · [events-api](https://github.com/julianaastudillo08/events-api) · [tags-api](https://github.com/julianaastudillo08/tags-api) · [comments-api](https://github.com/julianaastudillo08/comments-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) |
 | **GraphQL** | [graphql-bookshelf](https://github.com/julianaastudillo08/graphql-bookshelf) |
 | **Java / Kotlin / PHP / Ruby** | [java-notes-api](https://github.com/julianaastudillo08/java-notes-api) · [kotlin-todos-api](https://github.com/julianaastudillo08/kotlin-todos-api) · [php-contacts-api](https://github.com/julianaastudillo08/php-contacts-api) · [ruby-quotes-api](https://github.com/julianaastudillo08/ruby-quotes-api) |
 
