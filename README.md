@@ -64,15 +64,16 @@
 |------|--------|
 | [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Studio de gradientes, sombras y glassmorphism |
 | [Signal Board](https://julianaastudillo08.github.io/signal-board/) | Dashboard ops con métricas en vivo |
-| [Mindmap Lite](https://julianaastudillo08.github.io/mindmap-lite/) | Editor de mapas mentales (drag + SVG) |
+| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Formatear, validar y explorar JSON |
+| [Regex Lab](https://julianaastudillo08.github.io/regex-lab/) | Playground de expresiones regulares |
+| [Snap Grid](https://julianaastudillo08.github.io/snap-grid/) | Moodboard / collage con drag |
+| [Habit Streaks](https://julianaastudillo08.github.io/habit-streaks/) | Hábitos con calendario tipo heat map |
+| [Meeting Cost](https://julianaastudillo08.github.io/meeting-cost/) | Costo real de reuniones COP/USD |
 | [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST en el navegador |
-| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD con preview e impresión |
-| [Focus Arena](https://julianaastudillo08.github.io/focus-arena/) | Pomodoro gamificado (XP + rachas) |
-| [Chrono Timeline](https://julianaastudillo08.github.io/chrono-timeline/) | Línea de tiempo profesional interactiva |
-| [Palette Story](https://julianaastudillo08.github.io/palette-story/) | Paletas con contraste WCAG + preview UI |
-| [Stack Quiz Pro](https://julianaastudillo08.github.io/stack-quiz-pro/) | Prep entrevistas: JS · Python · SQL · APIs |
+| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD con preview |
+| [Focus Arena](https://julianaastudillo08.github.io/focus-arena/) | Pomodoro gamificado |
+| [Mindmap Lite](https://julianaastudillo08.github.io/mindmap-lite/) | Mapas mentales interactivos |
 | [Clinic Flow](https://julianaastudillo08.github.io/clinic-flow/) | Agenda clínica completa |
-| [Ledger Pro](https://julianaastudillo08.github.io/ledger-pro/) | Finanzas COP: metas y CSV |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
@@ -80,12 +81,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[pixel-forge](https://github.com/julianaastudillo08/pixel-forge)** | Vanilla · CSS | Laboratorio visual de diseño |
-| **[api-playground](https://github.com/julianaastudillo08/api-playground)** | Fetch · localStorage | Cliente REST para demos |
-| **[invoice-studio](https://github.com/julianaastudillo08/invoice-studio)** | Vanilla | Facturación profesional |
+| **[json-sculptor](https://github.com/julianaastudillo08/json-sculptor)** | Vanilla | Toolkit JSON para developers |
+| **[regex-lab](https://github.com/julianaastudillo08/regex-lab)** | Vanilla | Lab de regex con matches live |
+| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas con detección de conflictos |
 | **[fleet-tracker-api](https://github.com/julianaastudillo08/fleet-tracker-api)** | Express · SQLite · Zod | Flota y viajes |
 | **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | Envíos y tracking |
-| **[clinic-flow](https://github.com/julianaastudillo08/clinic-flow)** | Vanilla | Agenda clínica |
+| **[pixel-forge](https://github.com/julianaastudillo08/pixel-forge)** | Vanilla · CSS | Laboratorio visual |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
