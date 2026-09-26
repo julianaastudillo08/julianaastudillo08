@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  Portafolio con <strong>apps web, landings, APIs y muchos lenguajes</strong>.<br/>
+  Portafolio con <strong>apps web, dashboards, herramientas creativas y APIs</strong>.<br/>
   Producto estrella: <strong><a href="https://yuwe-ai.web.app">YuweAI</a></strong> (mención de honor).
 </p>
 
 <p align="center">
   <a href="https://yuwe-ai.web.app"><img src="https://img.shields.io/badge/YuweAI-Live-0f766e?style=for-the-badge" alt="YuweAI" /></a>
   <a href="https://julianaastudillo08.github.io/dev-portfolio/"><img src="https://img.shields.io/badge/Portafolio-Web-222?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://julianaastudillo08.github.io/agenda-citas/"><img src="https://img.shields.io/badge/Demo-Agenda_Citas-0f766e?style=for-the-badge" alt="Agenda" /></a>
+  <a href="https://julianaastudillo08.github.io/pixel-forge/"><img src="https://img.shields.io/badge/Demo-Pixel_Forge-0f766e?style=for-the-badge" alt="PixelForge" /></a>
   <a href="https://www.linkedin.com/in/juliana-chantre-astudillo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -58,27 +58,33 @@
 
 ---
 
-### Apps web (demos)
+### Demos en vivo (lo más bacano)
 
-[Agenda Citas](https://julianaastudillo08.github.io/agenda-citas/) ·
-[Factura Fácil](https://julianaastudillo08.github.io/factura-facil/) ·
-[Quiz Academia](https://julianaastudillo08.github.io/quiz-academia/) ·
-[Landing Nova](https://julianaastudillo08.github.io/landing-nova-studio/) ·
-[Menú Café](https://julianaastudillo08.github.io/menu-cafe-andes/) ·
-[Spendly](https://julianaastudillo08.github.io/spendly/) ·
-[ClinicFlow](https://julianaastudillo08.github.io/clinic-flow/) ·
-[LedgerPro](https://julianaastudillo08.github.io/ledger-pro/)
+| Demo | Qué es |
+|------|--------|
+| [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Studio de gradientes, sombras y glassmorphism |
+| [Signal Board](https://julianaastudillo08.github.io/signal-board/) | Dashboard ops con métricas “en vivo” |
+| [Mindmap Lite](https://julianaastudillo08.github.io/mindmap-lite/) | Editor de mapas mentales (drag + SVG) |
+| [Stack Quiz Pro](https://julianaastudillo08.github.io/stack-quiz-pro/) | Prep entrevistas: JS · Python · SQL · APIs |
+| [Brief Writer](https://julianaastudillo08.github.io/brief-writer/) | Generador de briefs de reunión imprimibles |
+| [Clinic Flow](https://julianaastudillo08.github.io/clinic-flow/) | Agenda clínica completa (panel, print, atajos) |
+| [Ledger Pro](https://julianaastudillo08.github.io/ledger-pro/) | Finanzas COP: metas, recurrentes, CSV |
+| [Knowledge Vault](https://julianaastudillo08.github.io/knowledge-vault/) | Notas Markdown con tags y modo lectura |
+| [Agenda Citas](https://julianaastudillo08.github.io/agenda-citas/) | Reservas y calendario |
+| [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
 
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[nexus-board](https://github.com/julianaastudillo08/nexus-board)** | Express · SQLite · UI | Tablero full-stack de proyectos |
-| **[clinic-flow](https://github.com/julianaastudillo08/clinic-flow)** | Vanilla · localStorage | Agenda clínica profesional |
-| **[ledger-pro](https://github.com/julianaastudillo08/ledger-pro)** | JS · Chart.js | Contabilidad personal COP |
+| **[pixel-forge](https://github.com/julianaastudillo08/pixel-forge)** | Vanilla · CSS | Laboratorio visual de diseño |
+| **[signal-board](https://github.com/julianaastudillo08/signal-board)** | Chart.js | Observabilidad / ops UI |
+| **[mindmap-lite](https://github.com/julianaastudillo08/mindmap-lite)** | SVG · Canvas | Mapas mentales interactivos |
+| **[clinic-flow](https://github.com/julianaastudillo08/clinic-flow)** | Vanilla | Agenda clínica profesional |
+| **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | API de envíos y tracking |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Microservicio de autenticación |
-| **[pulse-api](https://github.com/julianaastudillo08/pulse-api)** | FastAPI · SQLite | Hábitos y estado de ánimo |
+| **[nexus-board](https://github.com/julianaastudillo08/nexus-board)** | Express · SQLite | Tablero full-stack |
 
 ### APIs por lenguaje
 
@@ -86,19 +92,15 @@
 |----------|------|
 | **Rust** | [rust-tasks-api](https://github.com/julianaastudillo08/rust-tasks-api) |
 | **C#** | [csharp-notes-api](https://github.com/julianaastudillo08/csharp-notes-api) |
-| **PHP** | [php-contacts-api](https://github.com/julianaastudillo08/php-contacts-api) |
-| **Ruby** | [ruby-quotes-api](https://github.com/julianaastudillo08/ruby-quotes-api) |
-| **Kotlin** | [kotlin-todos-api](https://github.com/julianaastudillo08/kotlin-todos-api) |
 | **Go** | [go-books-api](https://github.com/julianaastudillo08/go-books-api) |
-| **Java** | [java-notes-api](https://github.com/julianaastudillo08/java-notes-api) |
-| **Python** | [pulse-api](https://github.com/julianaastudillo08/pulse-api) |
-| **Node/TS** | [nexus-board](https://github.com/julianaastudillo08/nexus-board) · [inventory-api](https://github.com/julianaastudillo08/inventory-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) |
+| **Python** | [pulse-api](https://github.com/julianaastudillo08/pulse-api) · [ops-metrics-api](https://github.com/julianaastudillo08/ops-metrics-api) |
+| **Node/TS** | [courier-api](https://github.com/julianaastudillo08/courier-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) · [nexus-board](https://github.com/julianaastudillo08/nexus-board) |
 | **GraphQL** | [graphql-bookshelf](https://github.com/julianaastudillo08/graphql-bookshelf) |
-| **Dart / R / C / Bash** | [dart-password-check](https://github.com/julianaastudillo08/dart-password-check) · [r-sales-insights](https://github.com/julianaastudillo08/r-sales-insights) · [c-wordcount](https://github.com/julianaastudillo08/c-wordcount) · [bash-dev-toolkit](https://github.com/julianaastudillo08/bash-dev-toolkit) |
+| **Java / Kotlin / PHP / Ruby** | [java-notes-api](https://github.com/julianaastudillo08/java-notes-api) · [kotlin-todos-api](https://github.com/julianaastudillo08/kotlin-todos-api) · [php-contacts-api](https://github.com/julianaastudillo08/php-contacts-api) · [ruby-quotes-api](https://github.com/julianaastudillo08/ruby-quotes-api) |
 
 ### Ahora
 
-🎓 Maestría en IA — UNIR · 💼 Oderlogica · 🔎 Full Stack / Software Engineer
+Maestría en IA — UNIR · Oderlogica · Full Stack / Software Engineer
 
 [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/juliana-chantre-astudillo) ·
