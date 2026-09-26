@@ -62,17 +62,17 @@
 
 | Demo | Qué es |
 |------|--------|
+| [Typo Scale](https://julianaastudillo08.github.io/typo-scale/) | Escala tipográfica modular |
+| [Shadow Lab](https://julianaastudillo08.github.io/shadow-lab/) | Box-shadow multicapa |
+| [Mood Board](https://julianaastudillo08.github.io/mood-board/) | Ánimo diario + chart |
+| [Decision Wheel](https://julianaastudillo08.github.io/decision-wheel/) | Ruleta de decisiones |
+| [Checklist Pro](https://julianaastudillo08.github.io/checklist-pro/) | Tasks con prioridades |
 | [Color Harmony](https://julianaastudillo08.github.io/color-harmony/) | Paletas + contraste WCAG |
 | [CSV Studio](https://julianaastudillo08.github.io/csv-studio/) | CSV + chart + export |
 | [Link Vault](https://julianaastudillo08.github.io/link-vault/) | Bookmarks con tags |
-| [Receipt Split](https://julianaastudillo08.github.io/receipt-split/) | Divisor de cuenta COP |
 | [Timezone Bridge](https://julianaastudillo08.github.io/timezone-bridge/) | Relojes mundiales |
-| [Markdown Stage](https://julianaastudillo08.github.io/markdown-stage/) | Editor Markdown live + export |
-| [QR Craft](https://julianaastudillo08.github.io/qr-craft/) | Generador de QR descargable |
-| [Kanban Flow](https://julianaastudillo08.github.io/kanban-flow/) | Tablero Kanban con drag-drop |
-| [Poll Pulse](https://julianaastudillo08.github.io/poll-pulse/) | Encuestas instantáneas |
-| [Salary Net](https://julianaastudillo08.github.io/salary-net/) | Estimador salario neto COP |
-| [Diff Sight](https://julianaastudillo08.github.io/diff-sight/) | Diff de texto/código |
+| [Kanban Flow](https://julianaastudillo08.github.io/kanban-flow/) | Tablero Kanban |
+| [Markdown Stage](https://julianaastudillo08.github.io/markdown-stage/) | Editor Markdown |
 | [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes y glass |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
@@ -81,12 +81,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[color-harmony](https://github.com/julianaastudillo08/color-harmony)** | Vanilla | Paletas + WCAG |
-| **[csv-studio](https://github.com/julianaastudillo08/csv-studio)** | Vanilla · Chart.js | CSV toolkit |
+| **[typo-scale](https://github.com/julianaastudillo08/typo-scale)** | Vanilla | Escala tipográfica |
+| **[comments-api](https://github.com/julianaastudillo08/comments-api)** | Express · SQLite · Zod | Comentarios con hilos |
 | **[issues-api](https://github.com/julianaastudillo08/issues-api)** | Express · SQLite · Zod | Issue tracker |
-| **[kanban-flow](https://github.com/julianaastudillo08/kanban-flow)** | Vanilla | Kanban con WIP y labels |
-| **[notes-api](https://github.com/julianaastudillo08/notes-api)** | Express · SQLite · Zod | Notas con tags y search |
-| **[markdown-stage](https://github.com/julianaastudillo08/markdown-stage)** | Vanilla | Editor Markdown profesional |
+| **[checklist-pro](https://github.com/julianaastudillo08/checklist-pro)** | Vanilla | Checklist con progreso |
+| **[color-harmony](https://github.com/julianaastudillo08/color-harmony)** | Vanilla | Paletas + WCAG |
+| **[kanban-flow](https://github.com/julianaastudillo08/kanban-flow)** | Vanilla | Kanban con WIP |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
@@ -97,7 +97,7 @@
 | **C#** | [csharp-notes-api](https://github.com/julianaastudillo08/csharp-notes-api) |
 | **Go** | [go-books-api](https://github.com/julianaastudillo08/go-books-api) |
 | **Python** | [pulse-api](https://github.com/julianaastudillo08/pulse-api) · [ops-metrics-api](https://github.com/julianaastudillo08/ops-metrics-api) |
-| **Node/TS** | [issues-api](https://github.com/julianaastudillo08/issues-api) · [courier-api](https://github.com/julianaastudillo08/courier-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) · [nexus-board](https://github.com/julianaastudillo08/nexus-board) |
+| **Node/TS** | [comments-api](https://github.com/julianaastudillo08/comments-api) · [issues-api](https://github.com/julianaastudillo08/issues-api) · [courier-api](https://github.com/julianaastudillo08/courier-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) · [nexus-board](https://github.com/julianaastudillo08/nexus-board) |
 | **GraphQL** | [graphql-bookshelf](https://github.com/julianaastudillo08/graphql-bookshelf) |
 | **Java / Kotlin / PHP / Ruby** | [java-notes-api](https://github.com/julianaastudillo08/java-notes-api) · [kotlin-todos-api](https://github.com/julianaastudillo08/kotlin-todos-api) · [php-contacts-api](https://github.com/julianaastudillo08/php-contacts-api) · [ruby-quotes-api](https://github.com/julianaastudillo08/ruby-quotes-api) |
 
