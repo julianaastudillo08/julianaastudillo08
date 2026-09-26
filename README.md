@@ -62,17 +62,18 @@
 
 | Demo | Qué es |
 |------|--------|
+| [Color Harmony](https://julianaastudillo08.github.io/color-harmony/) | Paletas + contraste WCAG |
+| [CSV Studio](https://julianaastudillo08.github.io/csv-studio/) | CSV + chart + export |
+| [Link Vault](https://julianaastudillo08.github.io/link-vault/) | Bookmarks con tags |
+| [Receipt Split](https://julianaastudillo08.github.io/receipt-split/) | Divisor de cuenta COP |
+| [Timezone Bridge](https://julianaastudillo08.github.io/timezone-bridge/) | Relojes mundiales |
 | [Markdown Stage](https://julianaastudillo08.github.io/markdown-stage/) | Editor Markdown live + export |
 | [QR Craft](https://julianaastudillo08.github.io/qr-craft/) | Generador de QR descargable |
 | [Kanban Flow](https://julianaastudillo08.github.io/kanban-flow/) | Tablero Kanban con drag-drop |
 | [Poll Pulse](https://julianaastudillo08.github.io/poll-pulse/) | Encuestas instantáneas |
 | [Salary Net](https://julianaastudillo08.github.io/salary-net/) | Estimador salario neto COP |
 | [Diff Sight](https://julianaastudillo08.github.io/diff-sight/) | Diff de texto/código |
-| [Wire Mock](https://julianaastudillo08.github.io/wire-mock/) | Stubber de APIs |
-| [Card Deck](https://julianaastudillo08.github.io/card-deck/) | Flashcards |
-| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Toolkit JSON |
 | [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes y glass |
-| [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
@@ -80,12 +81,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[markdown-stage](https://github.com/julianaastudillo08/markdown-stage)** | Vanilla | Editor Markdown profesional |
+| **[color-harmony](https://github.com/julianaastudillo08/color-harmony)** | Vanilla | Paletas + WCAG |
+| **[csv-studio](https://github.com/julianaastudillo08/csv-studio)** | Vanilla · Chart.js | CSV toolkit |
+| **[issues-api](https://github.com/julianaastudillo08/issues-api)** | Express · SQLite · Zod | Issue tracker |
 | **[kanban-flow](https://github.com/julianaastudillo08/kanban-flow)** | Vanilla | Kanban con WIP y labels |
 | **[notes-api](https://github.com/julianaastudillo08/notes-api)** | Express · SQLite · Zod | Notas con tags y search |
-| **[inventory-lite-api](https://github.com/julianaastudillo08/inventory-lite-api)** | Express · SQLite · Zod | Inventario y stock |
-| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas |
-| **[diff-sight](https://github.com/julianaastudillo08/diff-sight)** | Vanilla | Diff viewer |
+| **[markdown-stage](https://github.com/julianaastudillo08/markdown-stage)** | Vanilla | Editor Markdown profesional |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
@@ -96,7 +97,7 @@
 | **C#** | [csharp-notes-api](https://github.com/julianaastudillo08/csharp-notes-api) |
 | **Go** | [go-books-api](https://github.com/julianaastudillo08/go-books-api) |
 | **Python** | [pulse-api](https://github.com/julianaastudillo08/pulse-api) · [ops-metrics-api](https://github.com/julianaastudillo08/ops-metrics-api) |
-| **Node/TS** | [courier-api](https://github.com/julianaastudillo08/courier-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) · [nexus-board](https://github.com/julianaastudillo08/nexus-board) |
+| **Node/TS** | [issues-api](https://github.com/julianaastudillo08/issues-api) · [courier-api](https://github.com/julianaastudillo08/courier-api) · [auth-gateway](https://github.com/julianaastudillo08/auth-gateway) · [nexus-board](https://github.com/julianaastudillo08/nexus-board) |
 | **GraphQL** | [graphql-bookshelf](https://github.com/julianaastudillo08/graphql-bookshelf) |
 | **Java / Kotlin / PHP / Ruby** | [java-notes-api](https://github.com/julianaastudillo08/java-notes-api) · [kotlin-todos-api](https://github.com/julianaastudillo08/kotlin-todos-api) · [php-contacts-api](https://github.com/julianaastudillo08/php-contacts-api) · [ruby-quotes-api](https://github.com/julianaastudillo08/ruby-quotes-api) |
 
