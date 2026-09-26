@@ -62,18 +62,17 @@
 
 | Demo | Qué es |
 |------|--------|
-| [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Studio de gradientes, sombras y glassmorphism |
-| [Signal Board](https://julianaastudillo08.github.io/signal-board/) | Dashboard ops con métricas en vivo |
-| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Formatear, validar y explorar JSON |
-| [Regex Lab](https://julianaastudillo08.github.io/regex-lab/) | Playground de expresiones regulares |
-| [Snap Grid](https://julianaastudillo08.github.io/snap-grid/) | Moodboard / collage con drag |
-| [Habit Streaks](https://julianaastudillo08.github.io/habit-streaks/) | Hábitos con calendario tipo heat map |
-| [Meeting Cost](https://julianaastudillo08.github.io/meeting-cost/) | Costo real de reuniones COP/USD |
+| [Diff Sight](https://julianaastudillo08.github.io/diff-sight/) | Diff de texto/código línea a línea |
+| [Wire Mock](https://julianaastudillo08.github.io/wire-mock/) | Stubber de APIs falsas en el browser |
+| [Card Deck](https://julianaastudillo08.github.io/card-deck/) | Flashcards con flip y spaced rating |
+| [JSON Sculptor](https://julianaastudillo08.github.io/json-sculptor/) | Formatear y explorar JSON |
+| [Regex Lab](https://julianaastudillo08.github.io/regex-lab/) | Playground de regex live |
+| [Tempo Beats](https://julianaastudillo08.github.io/tempo-beats/) | Metrónomo con tap tempo |
+| [Unit Forge](https://julianaastudillo08.github.io/unit-forge/) | Conversor de unidades + divisas |
+| [Pixel Forge](https://julianaastudillo08.github.io/pixel-forge/) | Gradientes, sombras y glass |
 | [API Playground](https://julianaastudillo08.github.io/api-playground/) | Cliente REST en el navegador |
-| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD con preview |
-| [Focus Arena](https://julianaastudillo08.github.io/focus-arena/) | Pomodoro gamificado |
-| [Mindmap Lite](https://julianaastudillo08.github.io/mindmap-lite/) | Mapas mentales interactivos |
-| [Clinic Flow](https://julianaastudillo08.github.io/clinic-flow/) | Agenda clínica completa |
+| [Habit Streaks](https://julianaastudillo08.github.io/habit-streaks/) | Hábitos con heat map |
+| [Invoice Studio](https://julianaastudillo08.github.io/invoice-studio/) | Facturas COP/USD |
 | [Portafolio](https://julianaastudillo08.github.io/dev-portfolio/) | Site profesional |
 
 ### Productos destacados
@@ -81,12 +80,12 @@
 | Proyecto | Stack | Qué resuelve |
 |----------|-------|--------------|
 | **[YuweAI](https://yuwe-ai.web.app)** | React · Firebase · IA | Producto estrella — mención de honor |
-| **[json-sculptor](https://github.com/julianaastudillo08/json-sculptor)** | Vanilla | Toolkit JSON para developers |
-| **[regex-lab](https://github.com/julianaastudillo08/regex-lab)** | Vanilla | Lab de regex con matches live |
-| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas con detección de conflictos |
-| **[fleet-tracker-api](https://github.com/julianaastudillo08/fleet-tracker-api)** | Express · SQLite · Zod | Flota y viajes |
+| **[diff-sight](https://github.com/julianaastudillo08/diff-sight)** | Vanilla | Diff viewer para texto/código |
+| **[wire-mock](https://github.com/julianaastudillo08/wire-mock)** | Vanilla | Mock de endpoints REST |
+| **[inventory-lite-api](https://github.com/julianaastudillo08/inventory-lite-api)** | Express · SQLite · Zod | Inventario y alertas de stock |
+| **[booking-api](https://github.com/julianaastudillo08/booking-api)** | Express · SQLite · Zod | Reservas con conflictos |
 | **[courier-api](https://github.com/julianaastudillo08/courier-api)** | Express · SQLite · Zod | Envíos y tracking |
-| **[pixel-forge](https://github.com/julianaastudillo08/pixel-forge)** | Vanilla · CSS | Laboratorio visual |
+| **[json-sculptor](https://github.com/julianaastudillo08/json-sculptor)** | Vanilla | Toolkit JSON |
 | **[auth-gateway](https://github.com/julianaastudillo08/auth-gateway)** | Node · JWT · Zod | Auth microservice |
 
 ### APIs por lenguaje
